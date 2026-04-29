@@ -1,0 +1,10 @@
+{
+  "image": "VG_100K_2/2405580.jpg",
+  "image_id": 92405580,
+  "question_id": 30105116,
+  "split": "test",
+  "question": "How many people are on the beach?",
+  "answer": 3,
+  "data_source": "imported_genome",
+  "issimple": true
+}

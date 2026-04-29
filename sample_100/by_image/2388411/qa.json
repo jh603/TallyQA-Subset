@@ -1,0 +1,10 @@
+{
+  "image": "VG_100K_2/2388411.jpg",
+  "image_id": 92388411,
+  "question_id": 30117081,
+  "split": "test",
+  "question": "How many dogs are in the picture?",
+  "answer": 1,
+  "data_source": "imported_genome",
+  "issimple": true
+}

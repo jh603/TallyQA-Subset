@@ -1,0 +1,10 @@
+{
+  "image": "VG_100K_2/2409772.jpg",
+  "image_id": 92409772,
+  "question_id": 30096977,
+  "split": "train",
+  "question": "How many glasses of beer is the man in the background holding?",
+  "answer": 2,
+  "data_source": "imported_genome",
+  "issimple": null
+}

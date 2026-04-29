@@ -1,0 +1,10 @@
+{
+  "image": "VG_100K_2/2396756.jpg",
+  "image_id": 92396756,
+  "question_id": 30111677,
+  "split": "train",
+  "question": "How many boats are in the water?",
+  "answer": 1,
+  "data_source": "imported_genome",
+  "issimple": null
+}

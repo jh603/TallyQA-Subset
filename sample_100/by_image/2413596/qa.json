@@ -1,0 +1,10 @@
+{
+  "image": "VG_100K_2/2413596.jpg",
+  "image_id": 92413596,
+  "question_id": 30162760,
+  "split": "test",
+  "question": "How many wheels are on the bike?",
+  "answer": 2,
+  "data_source": "imported_genome",
+  "issimple": true
+}

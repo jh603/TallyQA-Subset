@@ -1,0 +1,10 @@
+{
+  "image": "val2014/COCO_val2014_000000552237.jpg",
+  "image_id": 552237,
+  "question_id": 19178277,
+  "split": "train",
+  "question": "How many kites can you see?",
+  "answer": 3,
+  "data_source": "tdiuc_templates",
+  "issimple": null
+}

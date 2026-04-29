@@ -1,0 +1,10 @@
+{
+  "image": "train2014/COCO_train2014_000000441480.jpg",
+  "image_id": 441480,
+  "question_id": 10250318,
+  "split": "train",
+  "question": "How many umbrellas are there?",
+  "answer": 3,
+  "data_source": "tdiuc_templates",
+  "issimple": null
+}

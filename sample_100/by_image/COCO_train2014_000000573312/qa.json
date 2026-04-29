@@ -1,0 +1,10 @@
+{
+  "image": "train2014/COCO_train2014_000000573312.jpg",
+  "image_id": 573312,
+  "question_id": 20048184,
+  "split": "train",
+  "question": "How many ramps are visible?",
+  "answer": 0,
+  "data_source": "imported_vqa",
+  "issimple": null
+}

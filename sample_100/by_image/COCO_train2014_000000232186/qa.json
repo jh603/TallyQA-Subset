@@ -1,0 +1,10 @@
+{
+  "image": "train2014/COCO_train2014_000000232186.jpg",
+  "image_id": 232186,
+  "question_id": 20064117,
+  "split": "train",
+  "question": "How many vegetables are shown?",
+  "answer": 1,
+  "data_source": "imported_vqa",
+  "issimple": null
+}

@@ -1,0 +1,10 @@
+{
+  "image": "train2014/COCO_train2014_000000082246.jpg",
+  "image_id": 82246,
+  "question_id": 91284819,
+  "split": "train",
+  "question": "How many white cats are there in the image?",
+  "answer": 0,
+  "data_source": "generate",
+  "issimple": null
+}

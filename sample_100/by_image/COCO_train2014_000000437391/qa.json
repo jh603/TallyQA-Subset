@@ -1,0 +1,10 @@
+{
+  "image": "train2014/COCO_train2014_000000437391.jpg",
+  "image_id": 437391,
+  "question_id": 90215435,
+  "split": "train",
+  "question": "How many train cars are in the image?",
+  "answer": 0,
+  "data_source": "generate",
+  "issimple": null
+}

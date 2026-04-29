@@ -1,0 +1,10 @@
+{
+  "image": "train2014/COCO_train2014_000000177193.jpg",
+  "image_id": 177193,
+  "question_id": 10239352,
+  "split": "train",
+  "question": "How many dining tables are there?",
+  "answer": 1,
+  "data_source": "tdiuc_templates",
+  "issimple": null
+}

@@ -1,0 +1,10 @@
+{
+  "image": "val2014/COCO_val2014_000000062410.jpg",
+  "image_id": 62410,
+  "question_id": 19273106,
+  "split": "train",
+  "question": "How many wine glasses are there?",
+  "answer": 4,
+  "data_source": "tdiuc_templates",
+  "issimple": null
+}

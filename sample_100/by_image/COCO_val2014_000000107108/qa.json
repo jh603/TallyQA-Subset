@@ -1,0 +1,10 @@
+{
+  "image": "val2014/COCO_val2014_000000107108.jpg",
+  "image_id": 107108,
+  "question_id": 19261942,
+  "split": "train",
+  "question": "How many carrots are in the photo?",
+  "answer": 7,
+  "data_source": "tdiuc_templates",
+  "issimple": null
+}

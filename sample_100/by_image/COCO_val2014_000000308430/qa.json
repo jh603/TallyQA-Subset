@@ -1,0 +1,10 @@
+{
+  "image": "val2014/COCO_val2014_000000308430.jpg",
+  "image_id": 308430,
+  "question_id": 19121303,
+  "split": "train",
+  "question": "How many carrots can be seen?",
+  "answer": 3,
+  "data_source": "tdiuc_templates",
+  "issimple": null
+}

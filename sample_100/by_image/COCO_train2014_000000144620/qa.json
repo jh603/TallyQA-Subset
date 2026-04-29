@@ -1,0 +1,10 @@
+{
+  "image": "train2014/COCO_train2014_000000144620.jpg",
+  "image_id": 144620,
+  "question_id": 10069701,
+  "split": "train",
+  "question": "How many benches are there?",
+  "answer": 1,
+  "data_source": "tdiuc_templates",
+  "issimple": null
+}

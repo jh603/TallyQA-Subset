@@ -1,0 +1,10 @@
+{
+  "image": "train2014/COCO_train2014_000000005554.jpg",
+  "image_id": 5554,
+  "question_id": 20043104,
+  "split": "train",
+  "question": "How many trains are there?",
+  "answer": 1,
+  "data_source": "imported_vqa",
+  "issimple": null
+}

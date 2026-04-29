@@ -1,0 +1,10 @@
+{
+  "image": "train2014/COCO_train2014_000000104044.jpg",
+  "image_id": 104044,
+  "question_id": 20018239,
+  "split": "train",
+  "question": "How many workers are visible?",
+  "answer": 3,
+  "data_source": "imported_vqa",
+  "issimple": null
+}

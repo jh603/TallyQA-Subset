@@ -1,0 +1,10 @@
+{
+  "image": "train2014/COCO_train2014_000000447112.jpg",
+  "image_id": 447112,
+  "question_id": 10301028,
+  "split": "train",
+  "question": "How many remotes are in the picture?",
+  "answer": 1,
+  "data_source": "tdiuc_templates",
+  "issimple": null
+}

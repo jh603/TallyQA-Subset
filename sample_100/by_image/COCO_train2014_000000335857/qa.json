@@ -1,0 +1,10 @@
+{
+  "image": "train2014/COCO_train2014_000000335857.jpg",
+  "image_id": 335857,
+  "question_id": 91249747,
+  "split": "train",
+  "question": "How many black horse ?",
+  "answer": 0,
+  "data_source": "generate",
+  "issimple": null
+}

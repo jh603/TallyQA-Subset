@@ -1,0 +1,10 @@
+{
+  "image": "VG_100K_2/2406228.jpg",
+  "image_id": 92406228,
+  "question_id": 30103846,
+  "split": "test",
+  "question": "How many mirrors are on the wall?",
+  "answer": 3,
+  "data_source": "imported_genome",
+  "issimple": true
+}

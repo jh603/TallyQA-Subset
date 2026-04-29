@@ -1,0 +1,10 @@
+{
+  "image": "VG_100K_2/2382749.jpg",
+  "image_id": 92382749,
+  "question_id": 30120714,
+  "split": "train",
+  "question": "How many people are see in this picture?",
+  "answer": 7,
+  "data_source": "imported_genome",
+  "issimple": null
+}

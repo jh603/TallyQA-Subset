@@ -1,0 +1,10 @@
+{
+  "image": "VG_100K_2/2416417.jpg",
+  "image_id": 92416417,
+  "question_id": 30166219,
+  "split": "train",
+  "question": "How many women?",
+  "answer": 2,
+  "data_source": "imported_genome",
+  "issimple": null
+}

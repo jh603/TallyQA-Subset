@@ -1,0 +1,10 @@
+{
+  "image": "val2014/COCO_val2014_000000285908.jpg",
+  "image_id": 285908,
+  "question_id": 20028442,
+  "split": "train",
+  "question": "How many bears?",
+  "answer": 1,
+  "data_source": "imported_vqa",
+  "issimple": null
+}

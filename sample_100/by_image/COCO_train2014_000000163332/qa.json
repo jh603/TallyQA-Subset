@@ -1,0 +1,10 @@
+{
+  "image": "train2014/COCO_train2014_000000163332.jpg",
+  "image_id": 163332,
+  "question_id": 20011392,
+  "split": "train",
+  "question": "How many sheep are in the photo?",
+  "answer": 2,
+  "data_source": "imported_vqa",
+  "issimple": null
+}

@@ -1,0 +1,10 @@
+{
+  "image": "val2014/COCO_val2014_000000402528.jpg",
+  "image_id": 402528,
+  "question_id": 90653275,
+  "split": "train",
+  "question": "How many people are in performing a trick?",
+  "answer": 0,
+  "data_source": "generate",
+  "issimple": null
+}

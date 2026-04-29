@@ -1,0 +1,10 @@
+{
+  "image": "VG_100K_2/2408385.jpg",
+  "image_id": 92408385,
+  "question_id": 30099630,
+  "split": "train",
+  "question": "How many goats are not eating grass?",
+  "answer": 1,
+  "data_source": "imported_genome",
+  "issimple": null
+}

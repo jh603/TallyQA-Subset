@@ -1,0 +1,10 @@
+{
+  "image": "val2014/COCO_val2014_000000034662.jpg",
+  "image_id": 34662,
+  "question_id": 19090662,
+  "split": "train",
+  "question": "How many sheep are in the photo?",
+  "answer": 2,
+  "data_source": "tdiuc_templates",
+  "issimple": null
+}

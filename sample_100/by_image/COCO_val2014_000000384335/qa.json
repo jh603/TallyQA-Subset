@@ -1,0 +1,10 @@
+{
+  "image": "val2014/COCO_val2014_000000384335.jpg",
+  "image_id": 384335,
+  "question_id": 19196476,
+  "split": "train",
+  "question": "How many handbags are there?",
+  "answer": 1,
+  "data_source": "tdiuc_templates",
+  "issimple": null
+}

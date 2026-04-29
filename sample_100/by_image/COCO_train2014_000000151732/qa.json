@@ -1,0 +1,10 @@
+{
+  "image": "train2014/COCO_train2014_000000151732.jpg",
+  "image_id": 151732,
+  "question_id": 20006558,
+  "split": "train",
+  "question": "How many soccer balls are in this picture?",
+  "answer": 4,
+  "data_source": "imported_vqa",
+  "issimple": null
+}

@@ -1,0 +1,10 @@
+{
+  "image": "train2014/COCO_train2014_000000488828.jpg",
+  "image_id": 488828,
+  "question_id": 90457623,
+  "split": "train",
+  "question": "How many forks are there?",
+  "answer": 0,
+  "data_source": "generate",
+  "issimple": null
+}

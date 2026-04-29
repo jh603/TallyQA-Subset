@@ -1,0 +1,10 @@
+{
+  "image": "VG_100K_2/2387281.jpg",
+  "image_id": 92387281,
+  "question_id": 30117793,
+  "split": "test",
+  "question": "How many elephants are there?",
+  "answer": 3,
+  "data_source": "imported_genome",
+  "issimple": true
+}

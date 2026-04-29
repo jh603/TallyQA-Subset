@@ -1,0 +1,10 @@
+{
+  "image": "train2014/COCO_train2014_000000503479.jpg",
+  "image_id": 503479,
+  "question_id": 20034348,
+  "split": "train",
+  "question": "How many books are there on the table?",
+  "answer": 3,
+  "data_source": "imported_vqa",
+  "issimple": null
+}

@@ -1,0 +1,10 @@
+{
+  "image": "train2014/COCO_train2014_000000489107.jpg",
+  "image_id": 489107,
+  "question_id": 20038185,
+  "split": "train",
+  "question": "How many bikes does the police have?",
+  "answer": 0,
+  "data_source": "imported_vqa",
+  "issimple": null
+}

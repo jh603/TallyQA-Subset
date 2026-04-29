@@ -1,0 +1,10 @@
+{
+  "image": "VG_100K_2/2387265.jpg",
+  "image_id": 92387265,
+  "question_id": 30117801,
+  "split": "train",
+  "question": "How many cakes are there?",
+  "answer": 1,
+  "data_source": "imported_genome",
+  "issimple": null
+}

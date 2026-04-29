@@ -1,0 +1,10 @@
+{
+  "image": "train2014/COCO_train2014_000000245271.jpg",
+  "image_id": 245271,
+  "question_id": 91417719,
+  "split": "train",
+  "question": "How many of the dogs are black?",
+  "answer": 0,
+  "data_source": "generate",
+  "issimple": null
+}

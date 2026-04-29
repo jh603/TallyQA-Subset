@@ -1,0 +1,10 @@
+{
+  "image": "train2014/COCO_train2014_000000424337.jpg",
+  "image_id": 424337,
+  "question_id": 10289183,
+  "split": "train",
+  "question": "How many microwaves are in the photo?",
+  "answer": 1,
+  "data_source": "tdiuc_templates",
+  "issimple": null
+}

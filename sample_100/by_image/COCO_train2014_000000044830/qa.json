@@ -1,0 +1,10 @@
+{
+  "image": "train2014/COCO_train2014_000000044830.jpg",
+  "image_id": 44830,
+  "question_id": 20012014,
+  "split": "train",
+  "question": "How many slices of pizza are shown?",
+  "answer": 2,
+  "data_source": "imported_vqa",
+  "issimple": null
+}

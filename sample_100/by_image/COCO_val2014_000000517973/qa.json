@@ -1,0 +1,10 @@
+{
+  "image": "val2014/COCO_val2014_000000517973.jpg",
+  "image_id": 517973,
+  "question_id": 19300519,
+  "split": "train",
+  "question": "How many cars can be seen?",
+  "answer": 2,
+  "data_source": "tdiuc_templates",
+  "issimple": null
+}

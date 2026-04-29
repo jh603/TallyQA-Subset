@@ -1,0 +1,10 @@
+{
+  "image": "val2014/COCO_val2014_000000121987.jpg",
+  "image_id": 121987,
+  "question_id": 91746967,
+  "split": "train",
+  "question": "How many bottle caps are in the photo?",
+  "answer": 0,
+  "data_source": "generate",
+  "issimple": null
+}

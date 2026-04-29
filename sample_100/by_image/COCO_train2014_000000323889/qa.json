@@ -1,0 +1,10 @@
+{
+  "image": "train2014/COCO_train2014_000000323889.jpg",
+  "image_id": 323889,
+  "question_id": 20042965,
+  "split": "train",
+  "question": "How many people are sitting down?",
+  "answer": 3,
+  "data_source": "imported_vqa",
+  "issimple": null
+}

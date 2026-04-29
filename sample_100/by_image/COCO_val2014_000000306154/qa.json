@@ -1,0 +1,10 @@
+{
+  "image": "val2014/COCO_val2014_000000306154.jpg",
+  "image_id": 306154,
+  "question_id": 90633942,
+  "split": "train",
+  "question": "How many cars are there?",
+  "answer": 0,
+  "data_source": "generate",
+  "issimple": null
+}

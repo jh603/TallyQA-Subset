@@ -1,0 +1,10 @@
+{
+  "image": "train2014/COCO_train2014_000000140577.jpg",
+  "image_id": 140577,
+  "question_id": 20007813,
+  "split": "train",
+  "question": "How many sets of towels on the bed?",
+  "answer": 2,
+  "data_source": "imported_vqa",
+  "issimple": null
+}

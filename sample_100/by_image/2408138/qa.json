@@ -1,0 +1,10 @@
+{
+  "image": "VG_100K_2/2408138.jpg",
+  "image_id": 92408138,
+  "question_id": 30100127,
+  "split": "test",
+  "question": "How many buses are pictured?",
+  "answer": 3,
+  "data_source": "imported_genome",
+  "issimple": true
+}

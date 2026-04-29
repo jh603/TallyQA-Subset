@@ -1,0 +1,10 @@
+{
+  "image": "VG_100K_2/2379534.jpg",
+  "image_id": 92379534,
+  "question_id": 30122720,
+  "split": "train",
+  "question": "How many umbrellas are in the picture?",
+  "answer": 2,
+  "data_source": "imported_genome",
+  "issimple": null
+}

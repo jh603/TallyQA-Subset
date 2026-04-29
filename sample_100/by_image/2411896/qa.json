@@ -1,0 +1,10 @@
+{
+  "image": "VG_100K_2/2411896.jpg",
+  "image_id": 92411896,
+  "question_id": 30165171,
+  "split": "train",
+  "question": "How many containers are visible on the boat?",
+  "answer": 2,
+  "data_source": "imported_genome",
+  "issimple": null
+}

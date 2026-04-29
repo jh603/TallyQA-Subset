@@ -1,0 +1,10 @@
+{
+  "image": "train2014/COCO_train2014_000000203729.jpg",
+  "image_id": 203729,
+  "question_id": 20055690,
+  "split": "train",
+  "question": "How many zebras in the picture?",
+  "answer": 0,
+  "data_source": "imported_vqa",
+  "issimple": null
+}

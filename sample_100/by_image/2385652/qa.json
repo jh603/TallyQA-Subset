@@ -1,0 +1,10 @@
+{
+  "image": "VG_100K_2/2385652.jpg",
+  "image_id": 92385652,
+  "question_id": 30118818,
+  "split": "train",
+  "question": "How many spoons are shown?",
+  "answer": 1,
+  "data_source": "imported_genome",
+  "issimple": null
+}

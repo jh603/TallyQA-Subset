@@ -1,0 +1,10 @@
+{
+  "image": "val2014/COCO_val2014_000000306159.jpg",
+  "image_id": 306159,
+  "question_id": 20073396,
+  "split": "train",
+  "question": "How many urinals are there?",
+  "answer": 1,
+  "data_source": "imported_vqa",
+  "issimple": null
+}

@@ -1,0 +1,10 @@
+{
+  "image": "train2014/COCO_train2014_000000553402.jpg",
+  "image_id": 553402,
+  "question_id": 10518259,
+  "split": "train",
+  "question": "How many donuts can be seen?",
+  "answer": 1,
+  "data_source": "tdiuc_templates",
+  "issimple": null
+}

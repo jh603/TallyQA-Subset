@@ -1,0 +1,10 @@
+{
+  "image": "train2014/COCO_train2014_000000316178.jpg",
+  "image_id": 316178,
+  "question_id": 20001705,
+  "split": "train",
+  "question": "How many benches are pictured?",
+  "answer": 2,
+  "data_source": "imported_vqa",
+  "issimple": null
+}

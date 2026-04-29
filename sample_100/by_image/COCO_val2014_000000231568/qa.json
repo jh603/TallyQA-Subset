@@ -1,0 +1,10 @@
+{
+  "image": "val2014/COCO_val2014_000000231568.jpg",
+  "image_id": 231568,
+  "question_id": 20085239,
+  "split": "train",
+  "question": "How many men are going bald in this picture?",
+  "answer": 0,
+  "data_source": "imported_vqa",
+  "issimple": null
+}

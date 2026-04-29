@@ -1,0 +1,10 @@
+{
+  "image": "VG_100K_2/2386198.jpg",
+  "image_id": 92386198,
+  "question_id": 9238619813753,
+  "split": "test",
+  "question": "How many green plants are near the window?",
+  "answer": 1,
+  "data_source": "amt",
+  "issimple": false
+}

@@ -1,0 +1,10 @@
+{
+  "image": "train2014/COCO_train2014_000000468771.jpg",
+  "image_id": 468771,
+  "question_id": 10310634,
+  "split": "train",
+  "question": "How many giraffes are in the photo?",
+  "answer": 3,
+  "data_source": "tdiuc_templates",
+  "issimple": null
+}

@@ -1,0 +1,10 @@
+{
+  "image": "train2014/COCO_train2014_000000358576.jpg",
+  "image_id": 358576,
+  "question_id": 20020923,
+  "split": "train",
+  "question": "How many pieces of sliced watermelon do you see?",
+  "answer": 4,
+  "data_source": "imported_vqa",
+  "issimple": null
+}

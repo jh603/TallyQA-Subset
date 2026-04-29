@@ -1,0 +1,10 @@
+{
+  "image": "train2014/COCO_train2014_000000458134.jpg",
+  "image_id": 458134,
+  "question_id": 10333484,
+  "split": "train",
+  "question": "How many tvs are visible?",
+  "answer": 1,
+  "data_source": "tdiuc_templates",
+  "issimple": null
+}

@@ -1,0 +1,10 @@
+{
+  "image": "train2014/COCO_train2014_000000521382.jpg",
+  "image_id": 521382,
+  "question_id": 20006958,
+  "split": "train",
+  "question": "How many players are on the field?",
+  "answer": 4,
+  "data_source": "imported_vqa",
+  "issimple": null
+}

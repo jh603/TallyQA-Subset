@@ -1,0 +1,10 @@
+{
+  "image": "train2014/COCO_train2014_000000091188.jpg",
+  "image_id": 91188,
+  "question_id": 20039801,
+  "split": "train",
+  "question": "How many lights run across above the windshield?",
+  "answer": 2,
+  "data_source": "imported_vqa",
+  "issimple": null
+}

@@ -1,0 +1,10 @@
+{
+  "image": "train2014/COCO_train2014_000000387792.jpg",
+  "image_id": 387792,
+  "question_id": 10617726,
+  "split": "train",
+  "question": "How many bottles are there?",
+  "answer": 2,
+  "data_source": "tdiuc_templates",
+  "issimple": null
+}

@@ -1,0 +1,10 @@
+{
+  "image": "VG_100K_2/2409222.jpg",
+  "image_id": 92409222,
+  "question_id": 9240922217325,
+  "split": "test",
+  "question": "How many orange cones are in the image?",
+  "answer": 2,
+  "data_source": "amt",
+  "issimple": false
+}

@@ -1,0 +1,10 @@
+{
+  "image": "train2014/COCO_train2014_000000061585.jpg",
+  "image_id": 61585,
+  "question_id": 10317614,
+  "split": "train",
+  "question": "How many skateboards are in the photo?",
+  "answer": 1,
+  "data_source": "tdiuc_templates",
+  "issimple": null
+}

@@ -1,0 +1,10 @@
+{
+  "image": "train2014/COCO_train2014_000000249947.jpg",
+  "image_id": 249947,
+  "question_id": 10586085,
+  "split": "train",
+  "question": "How many people can be seen?",
+  "answer": 4,
+  "data_source": "tdiuc_templates",
+  "issimple": null
+}

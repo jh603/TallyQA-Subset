@@ -1,0 +1,10 @@
+{
+  "image": "train2014/COCO_train2014_000000070213.jpg",
+  "image_id": 70213,
+  "question_id": 10297484,
+  "split": "train",
+  "question": "How many oranges are there?",
+  "answer": 3,
+  "data_source": "tdiuc_templates",
+  "issimple": null
+}

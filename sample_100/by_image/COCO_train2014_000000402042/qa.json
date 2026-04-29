@@ -1,0 +1,10 @@
+{
+  "image": "train2014/COCO_train2014_000000402042.jpg",
+  "image_id": 402042,
+  "question_id": 90975399,
+  "split": "train",
+  "question": "How many pizza slices are missing from the tray?",
+  "answer": 0,
+  "data_source": "generate",
+  "issimple": null
+}

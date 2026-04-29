@@ -1,0 +1,10 @@
+{
+  "image": "val2014/COCO_val2014_000000101053.jpg",
+  "image_id": 101053,
+  "question_id": 20088311,
+  "split": "train",
+  "question": "How many air conditioners do you see in this picture?",
+  "answer": 0,
+  "data_source": "imported_vqa",
+  "issimple": null
+}

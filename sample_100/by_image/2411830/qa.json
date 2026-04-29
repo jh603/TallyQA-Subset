@@ -1,0 +1,10 @@
+{
+  "image": "VG_100K_2/2411830.jpg",
+  "image_id": 92411830,
+  "question_id": 30165254,
+  "split": "train",
+  "question": "How many towels are on the rack?",
+  "answer": 3,
+  "data_source": "imported_genome",
+  "issimple": null
+}
